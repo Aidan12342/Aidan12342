@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Aidan12342
-- 👀 I’m interested in creating a site to share there projects for Coding Stem so people can get helped.
-- 🌱 I’m currently learning To code Javascript
-- 💞️ I’m looking to collaborate on my project for groups so each person can help our project
+- 👀 I’m interested in creating a  Azure OpenAI for every thing ChatBot generating etc. .
+- 🌱 I’m currently learning To code C#
+- 💞️ I’m looking to collaborate on my project for groups so each person can help in a differnet part of our project
 - 📫 How to reach me aidanreach@gmail.com
 
 
 - 😄 Pronouns: Male
-- ⚡ Fun fact: every day in the start of this project i just scrap it
+- ⚡ Fun fact: EVery day in the start of this project i just scrap it
 
 <!---
 Aidan12342/Aidan12342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
